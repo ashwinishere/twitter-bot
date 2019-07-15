@@ -1,0 +1,23 @@
+{
+  "name": "cheerbot",
+  "version": "1.0.0",
+  "description": "cheer-bot to cheer devs",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "twit",
+    "cheer",
+    "opensource"
+  ],
+  "author": "aswin harikumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "twit": "^2.2.11"
+  }
+}
