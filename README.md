@@ -1,7 +1,8 @@
 # **Twitter Bot with nodejs**  
 
 ### show some :heart:
-[![GitHub stars](https://img.shields.io/github/stars/ashwinishere/twitter-bot.svg?style=social&label=Star)](https://github.com/ashwinishere/twitter-bot) [![GitHub forks](https://img.shields.io/github/forks/ashwinishere/twitter-bot.svg?style=social&label=Fork)](https://github.com/ashwinishere/twitter-bot/fork) [![GitHub watchers](https://img.shields.io/github/watchers/ashwinishere/twitter-bot.svg?style=social&label=Watch)](https://github.com/ashwinishere/twitter-bot) [![GitHub followers](https://img.shields.io/github/followers/ashwinishere.svg?style=social&label=Follow)](https://github.com/ashwinishere/twitter-bot)  
+
+[![GitHub stars](https://img.shields.io/github/stars/ashwinishere/twitter-bot.svg?style=social)](https://github.com/ashwinishere/twitter-bot) [![GitHub forks](https://img.shields.io/github/forks/ashwinishere/twitter-bot.svg?style=social&label=Fork)](https://github.com/ashwinishere/twitter-bot/fork) [![GitHub watchers](https://img.shields.io/github/watchers/ashwinishere/twitter-bot.svg?style=social&label=Watch)](https://github.com/ashwinishere/twitter-bot) [![GitHub followers](https://img.shields.io/github/followers/ashwinishere.svg?style=social&label=Follow)](https://github.com/ashwinishere/twitter-bot)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/ashwinishere.svg?style=social)](https://twitter.com/eternally_l0st) 
 
 Its a simple 33-line code twitter bot which can post tweets, retweet other tweets and fav tweets for specific topic with stream.
